@@ -1,0 +1,39 @@
+<!DOCTYPE html?>
+<html lang="eng">
+<head>
+<title> My first HTML page</title>
+<meta charset="utf-8">
+</head>
+<body>
+Hello World my first page!
+<h1> Hello</h1>
+<h2> Hello</h2>
+<h3> Hello</h3>
+<h4> Hello</h4>
+<h5> Hello</h5>
+<h6> Hello</h6>
+<br>
+<p> My first paragraph gose here to describe my contant and wedsite. <br>  <i>Welcome to the first elements of <strong>HTML5</strong></i>.</p>
+<blockquote>Multiple polls conducted since the Supreme Court's ruling overturning Roe v. Wade find that broad majorities of the public disapprove and suggest that in the immediate aftermath of the ruling, the decision could be more motivational for Democrats than Republicans.
+
+In a new Monmouth University survey released on Tuesday, 60% of US adults disapprove of the Supreme Court's decision to overturn Roe v. Wade, with just 37% approving. There's also a significant intensity gap: 53% of Americans strongly disapprove of the ruling, including 84% of Democrats, compared with 29% who strongly approve, including 58% of Republicans.
+That's similar to the finding of two other polls conducted after the ruling: an NPR/PBS NewsHour/Marist survey (56% of US adults oppose the court's decision, 40% support it) and a CBS News/YouGov survey (59% of US adults disapprove, 41% approve).
+</blockquote>
+<h1> Top Programming Languages</h1>
+<ul>
+<li>Java</li>
+<li>Python</li>
+<li>C#</li>
+<li>Github</li>
+</ul>
+<h1> Top Programming Languages</h1>
+<ol>
+<li>Java</li>
+<li>Python</li>
+<li>C#</li>
+<li>Github</li>
+</ol>
+<hr>
+<footer> <a href="https://www.google.com">Contant us</a> <a href="mailto:mickey@aol.com">mickey@aol.com</a>&copy; 2022 Cable News Example</footer>
+</body>
+</html>
